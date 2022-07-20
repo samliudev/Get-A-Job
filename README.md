@@ -1,3 +1,7 @@
+Hello there!
+
+This is a modified to-do app I'm building to keep track of the progress I've made towards getting a job. I graduated on Friday, July 22nd 2022 from FullStack Academy, and I'll updating this project until I get a job.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
